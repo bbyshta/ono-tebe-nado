@@ -1,0 +1,12 @@
+.cover__title {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    padding: 165px 50px 135px 50px;
+    color: white;
+    font-weight: 700;
+    font-size: 100px;
+    font-style: normal;
+    letter-spacing: 30px;
+    text-transform: uppercase;
+}

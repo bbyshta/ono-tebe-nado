@@ -1,0 +1,11 @@
+.bet-button {
+    border: 1px solid white;
+    padding: 12px 32px;
+    color: white;
+    font-weight: 400;
+    font-size: 22px;
+    font-style: normal;
+    line-height: normal;
+    text-transform: uppercase;
+    background-color: transparent;
+}

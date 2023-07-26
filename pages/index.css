@@ -12,3 +12,14 @@
 @import url(../styles/blocks/header/__logo-image/header__logo-image.css);
 @import url(../styles/blocks/header/__address/header__address.css);
 @import url(../styles/blocks/address/address.css);
+@import url(../styles/blocks/overlay/overlay.css);
+@import url(../styles/blocks/aligned-text/aligned-text.css);
+@import url(../styles/blocks/aligned-text/_center/aligned-text_center.css);
+@import url(../styles/blocks/aligned-text/_right/aligned-text_right.css);
+@import url(../styles/blocks/letter-spacing-extended/letter-spacing-extended.css);
+@import url(../styles/blocks/no-letter-spacing/no-letter-spacing.css);
+@import url(../styles/blocks/cover/cover.css);
+@import url(../styles/blocks/cover/__title/cover__title.css);
+@import url(../styles/blocks/cover/__description/cover__description.css);
+@import url(../styles/blocks/cover/__description-text/cover__description-text.css);
+@import url(../styles/blocks/bet-button/bet-button.css);
