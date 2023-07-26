@@ -1,0 +1,5 @@
+.lots {
+    display: flex;
+    flex-direction: column;
+    padding: 180px 50px;
+}

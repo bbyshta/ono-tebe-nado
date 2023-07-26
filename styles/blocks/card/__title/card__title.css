@@ -1,0 +1,10 @@
+.card__title {
+    padding: 50px 40px 0 40px;
+    color: white;
+    font-weight: 700;
+    font-size: 22px;
+    font-style: normal;
+    line-height: 1.2em;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
