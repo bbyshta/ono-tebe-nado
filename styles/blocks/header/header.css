@@ -1,0 +1,7 @@
+.header {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto auto;
+    width: 100%;
+    padding: 92px 49px 92px 51px;
+}

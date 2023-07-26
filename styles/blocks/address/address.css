@@ -1,0 +1,12 @@
+.address {
+    width: 240px;
+    font-weight: 400;
+    font-size: 18px;
+    font-style: normal;
+    line-height: 1.35em;
+}
+
+.address a {
+    border-bottom: 1px solid black;
+    text-decoration: none;
+}
