@@ -35,3 +35,9 @@
 @import url(../styles/blocks/card/_type/card_type_book.css);
 @import url(../styles/blocks/card/_type/card_type_picture.css);
 @import url(../styles/blocks/lots/__look-more-link/lots__look-more-link.css);
+@import url(../styles/blocks/about/about.css);
+@import url(../styles/blocks/about/__column/about__column.css);
+@import url(../styles/blocks/about/__logo/about__logo.css);
+@import url(../styles/blocks/about/__logo-image/about__logo-image.css);
+@import url(../styles/blocks/about/__title/about__title.css);
+@import url(../styles/blocks/about/__text/about__text.css);
