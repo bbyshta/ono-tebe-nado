@@ -1,5 +1,5 @@
 .address {
-    width: 240px;
+    max-width: 240px;
     font-weight: 400;
     font-size: 18px;
     font-style: normal;

@@ -1,6 +1,7 @@
 .card__text {
-    padding: 0 40px 50px 40px;
-    color: white;
+    z-index: 2;
+    margin: 0 40px 50px 40px;
+    color: #fff;
     font-weight: 400;
     font-size: 20px;
     font-style: normal;

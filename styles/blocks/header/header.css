@@ -1,6 +1,6 @@
 .header {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr min-content 1fr;
     grid-template-rows: auto auto;
     width: 100%;
     padding: 93px 49px 93px 51px;

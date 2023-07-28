@@ -1,6 +1,7 @@
 .card__title {
-    padding: 50px 40px 0 40px;
-    color: white;
+    z-index: 2;
+    margin: 50px 40px 0 40px;
+    color: #fff;
     font-weight: 700;
     font-size: 22px;
     font-style: normal;

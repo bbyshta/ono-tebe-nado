@@ -1,10 +1,9 @@
 .about__text {
+    display: flex;
+    flex-direction: column;
+    row-gap: 25px;
     font-weight: 400;
     font-size: 20px;
     font-style: normal;
     line-height: normal;
-}
-
-.about__text p:first-of-type {
-    margin-bottom: 25px;
 }

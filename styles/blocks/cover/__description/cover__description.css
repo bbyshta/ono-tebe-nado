@@ -1,4 +1,6 @@
 .cover__description {
+    position: relative;
+    z-index: 2;
     display: flex;
     justify-content: end;
     column-gap: 78px;
